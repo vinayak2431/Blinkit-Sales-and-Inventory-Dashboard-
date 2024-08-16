@@ -1,2 +1,2 @@
-# Blinkit-sell-dashboard
+# Blinkit Sales and Inventory Dashboard 
 Power bi dashboard
